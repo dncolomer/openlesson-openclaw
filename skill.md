@@ -114,7 +114,7 @@ Creates a directed graph of learning sessions for a given topic.
 
 ### 2. Start Session
 
-Starts a new Socratic session.
+Starts a new guided tutoring session.
 
 **Endpoint**: `POST /api/agent/session/start`
 
@@ -144,7 +144,7 @@ Starts a new Socratic session.
 
 ### 3. Analyze Audio Chunk
 
-Submits an audio chunk for Socratic analysis. Returns reasoning gap score and follow-up questions.
+Submits an audio chunk for analysis. Returns reasoning gap score and follow-up questions.
 
 **Endpoint**: `POST /api/agent/session/analyze`
 
