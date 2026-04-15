@@ -1,6 +1,6 @@
 {
   "name": "@openclaw/open-lesson",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "openLesson tutoring platform integration for OpenClaw - generate learning plans, start guided tutoring sessions, and analyze audio for reasoning gaps",
   "main": "index.ts",
   "openclaw": {

@@ -2,7 +2,7 @@
   "id": "open-lesson",
   "name": "openLesson",
   "description": "openLesson tutoring platform integration - generate learning plans, start guided tutoring sessions, and analyze audio for reasoning gaps",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "author": "openLesson",
   "homepage": "https://www.openlesson.academy",
   "configSchema": {
