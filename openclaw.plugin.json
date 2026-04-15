@@ -1,8 +1,8 @@
 {
   "id": "open-lesson",
   "name": "openLesson",
-  "description": "openLesson tutoring platform integration - generate learning plans, start guided tutoring sessions, and analyze audio for reasoning gaps",
-  "version": "1.0.3",
+  "description": "openLesson Agentic API v2 — Full integration with 28 endpoints: learning plans (CRUD, AI adaptation, YouTube import), tutoring sessions (multimodal analysis, pause/resume/restart), teaching assistant, analytics, and cryptographic proofs",
+  "version": "2.0.0",
   "author": "openLesson",
   "homepage": "https://www.openlesson.academy",
   "configSchema": {
@@ -11,7 +11,7 @@
     "properties": {
       "apiKey": {
         "type": "string",
-        "description": "openLesson API key for authentication"
+        "description": "openLesson API key (sk_...) for authentication. Generate from your dashboard."
       },
       "baseUrl": {
         "type": "string",
